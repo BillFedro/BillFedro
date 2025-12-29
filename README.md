@@ -15,4 +15,7 @@ About Me :<br><br>🔭 I'm currently working on  <br>- Web development projects 
 ---
 [![](https://visitcount.itsvg.in/api?id=BillFedro&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
